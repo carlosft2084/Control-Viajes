@@ -2,7 +2,7 @@
   "name": "Control de Viajes - Servicio Tecnico",
   "short_name": "ControlViajes",
   "description": "Registra gastos de viaje y calcula tu rentabilidad por cliente",
-  "start_url": "/Control-Viajes/index.html",
+  "start_url": "/Control-Viajes/",
   "scope": "/Control-Viajes/",
   "display": "standalone",
   "background_color": "#0f1117",
@@ -12,9 +12,9 @@
   "categories": ["business", "productivity"],
   "screenshots": [],
   "icons": [
-    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
-    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
   ]
 }
